@@ -1,0 +1,18 @@
+body{
+  background-image: none;
+  font-size: small;
+  font-family: Arial, sans-serif;
+  background-size: cover; /* This property scales the image to cover the entire background */
+  background-repeat: no-repeat; /* Prevents image repetition */
+  background-attachment: fixed; /* Keeps the background fixed while scrolling */
+  background-color: rgb(42, 95, 87); /* Add this line to set the background color */
+}
+.header{
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lobster', sans-serif;
+  font-size: 3em;
+  text-align: center;
+  
+}
+
+
